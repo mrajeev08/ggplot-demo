@@ -1,1 +1,1 @@
-install.packages(c("ggplot2", "palmerpenguins", "dplyr", "patchwork", "cowplot"))
+install.packages(c("palmerpenguins", "patchwork", "tidyverse"))
